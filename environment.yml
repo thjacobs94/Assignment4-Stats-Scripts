@@ -12,3 +12,4 @@ dependencies:
   - statsmodels
   - seaborn
   - scipy
+  - pandas

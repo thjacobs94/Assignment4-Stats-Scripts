@@ -8,3 +8,7 @@ dependencies:
   - jupyterlab
   - ipykernel
   - matplotlib
+  - numpy
+  - statsmodels
+  - seaborn
+  - scipy
